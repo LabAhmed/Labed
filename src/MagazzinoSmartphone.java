@@ -28,7 +28,6 @@ public class MagazzinoSmartphone {
         boolean trovato = false;
         while (i<count && trovato == false) {
             if (smartphones[i].equals(smartphone)) {
-                smartphones[i] = null;
                 trovato=true;
             }
             i++;
