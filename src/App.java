@@ -14,7 +14,7 @@ magazzinoSmartphone.addSmartphone(smartphone3);
 // Brand: Apple, Model: iPhone 12, Storage Capacity: 128GB, Price: 999.99
 // Brand: Samsung, Model: Galaxy S21, Storage Capacity: 256GB, Price: 899.99
 // Brand: OnePlus, Model: 9 Pro, Storage Capacity: 256GB, Price: 1069.99
-System.out.println(magazzinoSmartphone); 
+System.out.println(magazzinoSmartphone);  
 
 
 magazzinoSmartphone.removeSmartphone(smartphone2);
